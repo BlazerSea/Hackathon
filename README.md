@@ -5,3 +5,5 @@
 > Yardım botu
 
 ## Proje Türüm
+
+> Discord Botu 
