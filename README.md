@@ -2,7 +2,7 @@
 
 # Proje fikrim
 
-> Yardım botu
+> Motivasyon botu
 
 ## Proje Türüm
 
